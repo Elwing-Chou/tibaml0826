@@ -17,3 +17,5 @@
 [fasttext](https://colab.research.google.com/drive/1EVt3U7ddQUWokb-ZyZonbsPwkzl-x7O5?usp=sharing)
 
 [Face(GPU)](https://colab.research.google.com/drive/1Fdzjw0Rh4ZzRVDvObKAskPAY4AHP-2za?usp=sharing)
+
+[人臉辨識講義](https://colab.research.google.com/drive/1iqfxwoeUswDVKaW0mnT3Yx9nNk-GMuoH?fbclid=IwAR3aMLGvzPXnQHQOkjU06ZiDwvhtIINQb_jYfI7vVwDvBnmwM4TgBnf2lGk&usp=drive_open)
